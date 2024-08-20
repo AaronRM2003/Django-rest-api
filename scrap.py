@@ -2,7 +2,7 @@ import scrapy
 import json
 from scrapy.crawler import CrawlerProcess
 
-class NoberaSpider(scrapy.Spider):
+class NoberoSpider(scrapy.Spider):
     name = "cloth_products"
     start_urls = ["https://nobero.com/pages/men/"]
 
@@ -129,5 +129,5 @@ process = CrawlerProcess(settings={
     },
 })
 
-process.crawl(NoberaSpider)
+process.crawl(NoberoSpider)
 process.start()
