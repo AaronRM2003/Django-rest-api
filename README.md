@@ -4,7 +4,10 @@
 
 This project is an assignment for the internship selection process at Nobero E-commerce Pvt Ltd. The goal of this project is to scrape all men's wear products from the Nobero website using Scrapy, store the data in a database, and expose it via a REST API using Django REST Framework.
 
-<img src=""></img>
+<img src="Screenshot_20-8-2024_191841_127.0.0.1.jpeg"></img>
+<img src="Screenshot_20-8-2024_191841_127.0.0.1.jpeg"></img>
+<img src="Screenshot_20-8-2024_191841_127.0.0.1.jpeg"></img>
+
 ## Project Structure
 
 - **Scrapy Spider**: Used to scrape men's wear products from the Nobero website.
