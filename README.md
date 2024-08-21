@@ -37,7 +37,7 @@ This project is an assignment for the internship selection process at Nobero E-c
 
 Navigate to the Scrapy Directory:
 
-    ```sh
+   
     cd scrapy_project
 
 3. **Run the Spider:**
