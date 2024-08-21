@@ -47,25 +47,25 @@ scrapy crawl cloth_products -o products.json
 
 Navigate to the Django Project Directory:
 
-      ```sh
+      
       cd ../django_project
 
 **Apply Migrations:**
 
-      ```sh
+      
       python manage.py makemigrations
       python manage.py migrate
 
 **Load Data from JSON:**
       
-      ```sh
+      
       python manage.py load_data
 
 **Running the Django Server**
 
 Start the Server:
 
-      ```sh
+     
       python manage.py runserver
 
 Access the API: Open your browser and navigate to http://localhost:8000/api/mymodel/ to see the list of products.
